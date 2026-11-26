@@ -1,0 +1,6 @@
+{
+  "name": "NostrSpec",
+  "description": "TypeScript Nostr SDK and human-readable protocol documentation parsed directly from the official nostr-protocol/nips repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
